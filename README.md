@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+CyberSecurity+]-)](https://git.io/typing-svg)
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=berkayagl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
