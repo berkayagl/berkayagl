@@ -1,5 +1,4 @@
-![]
-(https://github.com/berkayagl/berkayagl/VID_20200212_174207.gif)
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+CyberSecurity+]-)](https://git.io/typing-svg)
 
